@@ -1,0 +1,13 @@
+Package: phtype
+Type: Package
+Title: Phase-type distributions
+Version: 0.1.0
+Author: Jakob Erik Jensen <jakoberikjensen@gmail.com>
+Maintainer: Jakob Erik Jensen <jakoberikjensen@gmail.com>
+Description: Various functions useful when working with phase-type distributions.
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
+Imports: 
+    expm
+RoxygenNote: 7.1.1
